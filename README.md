@@ -1,7 +1,7 @@
 # User Authentication System in C
 
 ---
-##Demo Screnshots 
+## Demo Screnshots 
 > **Registration**
 ![Registration](register.jpg)
 
@@ -57,8 +57,7 @@ Supports up to 100 users
 
 
 ---
-
-##Future Enhancements
+## Future Enhancements
 
 Saving user data permanently using files
 
@@ -72,7 +71,7 @@ User deletion feature
 
 ---
 
-##Limitations
+## Limitations
 
 All user data is stored in memory only.
 
