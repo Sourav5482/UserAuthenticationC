@@ -5,7 +5,7 @@
 > **Registration**
 ![Registration](register.jpg)
 
-> **Login
+> **Login**
 ![Login](login.jpg)
 
 > **Forgot Password**
@@ -42,7 +42,7 @@ The password input hides characters using `*` for better security.
 ```bash
 ./authApp
 ```
-##Features
+## Features
 
 Masked password input with *
 
