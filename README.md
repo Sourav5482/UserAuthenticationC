@@ -37,7 +37,7 @@ The password input hides characters using `*` for better security.
 2. Open a terminal and compile the code:
    ```bash
    gcc auth_system.c -o authApp
-```
+   ```
 3.Run the executable:
 ```bash
 ./authApp
